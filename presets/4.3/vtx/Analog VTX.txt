@@ -5,6 +5,7 @@
 #$ FIRMWARE_VERSION: 4.5
 #$ CATEGORY: VTX
 #$ STATUS: COMMUNITY
+#$ AUTHOR: Orange
 
 #$ INCLUDE: presets/4.3/vtx/defaults_vtx_tables.txt
 

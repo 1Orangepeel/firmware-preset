@@ -237,7 +237,7 @@
     },
     {
       "fullPath": "presets/4.3/modes/Orange Modes.txt",
-      "hash": "7432adfff7a9f29ca1217b4ff8620929fa57ede62d7ef82b0c436ad9b15ccf63",
+      "hash": "123d9c306008251973409b81c49cab528cf7008afca6c245ebcfa74a11016e8a",
       "title": "Orange Modes",
       "firmware_version": [
         "4.3",
@@ -255,7 +255,7 @@
         "aux",
         "switch"
       ],
-      "author": "Betaflight",
+      "author": "Orange",
       "priority": 0
     },
     {
@@ -376,7 +376,7 @@
     },
     {
       "fullPath": "presets/4.3/vtx/Analog VTX.txt",
-      "hash": "ea2f29dd50c048741483fa18e5f78271e0d6c18926ed2c1b9da39807902301a0",
+      "hash": "1a2ee22203bd9196bfda597c1fc53e142e721c0c389824122fdb164290c84bc8",
       "title": "Analog VTX",
       "firmware_version": [
         "4.2",
@@ -386,6 +386,7 @@
       ],
       "category": "VTX",
       "status": "COMMUNITY",
+      "author": "Orange",
       "priority": 1000000
     },
     {
@@ -447,8 +448,28 @@
       "priority": 0
     },
     {
+      "fullPath": "presets/4.4/tune/Orange Tune 4.4.txt",
+      "hash": "f74552720bd0647566738cd4ee07dce9820c319cca9158e76d3d65e375e5cfd6",
+      "title": "Orange 4.4 tune",
+      "firmware_version": [
+        "4.4"
+      ],
+      "category": "TUNE",
+      "status": "OFFICIAL",
+      "keywords": [
+        "defaults",
+        "reset",
+        "tune",
+        "pid",
+        "basic",
+        "default"
+      ],
+      "author": "Orange",
+      "priority": 0
+    },
+    {
       "fullPath": "presets/4.4/vtx/OSD DJI O3.txt",
-      "hash": "9fb47f5f4c10e3e8482b5a8080689e7cb5f0ad1e718c946748623d48b4982685",
+      "hash": "bd707ced11cdf8c9f77df03c363ce2995c663d3a0bb9d18cdd7bb5754bd642ac",
       "title": "Orange OSD DJI O3",
       "firmware_version": [
         "4.4",
@@ -461,6 +482,7 @@
         "dji",
         "O3 air unit"
       ],
+      "author": "Orange",
       "priority": 1000000
     },
     {

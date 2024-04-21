@@ -5,7 +5,7 @@
 #$ CATEGORY: MODES
 #$ STATUS: OFFICIAL
 #$ KEYWORDS: defaults, reset, mode, modes, adjustments, aux, switch
-#$ AUTHOR: Betaflight
+#$ AUTHOR: Orange
 #$ DESCRIPTION: Sets modes and adjustment ranges
 
 # aux switch settings
