@@ -133,6 +133,7 @@
   },
   "uniqueValues": {
     "firmware_version": [
+      "4.2",
       "4.3",
       "4.4",
       "4.5"
@@ -147,7 +148,8 @@
       "VTX"
     ],
     "author": [
-      "Betaflight"
+      "Betaflight",
+      "Orange"
     ],
     "keywords": [
       "adjustments",
@@ -234,6 +236,29 @@
       "priority": 0
     },
     {
+      "fullPath": "presets/4.3/modes/Orange Modes.txt",
+      "hash": "7432adfff7a9f29ca1217b4ff8620929fa57ede62d7ef82b0c436ad9b15ccf63",
+      "title": "Orange Modes",
+      "firmware_version": [
+        "4.3",
+        "4.4",
+        "4.5"
+      ],
+      "category": "MODES",
+      "status": "OFFICIAL",
+      "keywords": [
+        "defaults",
+        "reset",
+        "mode",
+        "modes",
+        "adjustments",
+        "aux",
+        "switch"
+      ],
+      "author": "Betaflight",
+      "priority": 0
+    },
+    {
       "fullPath": "presets/4.3/osd/defaults.txt",
       "hash": "36eb8ae097d0362030b297477c971280aad5562ac512a3f7ffa91949ed56db82",
       "title": "Default 4.3 OSD settings",
@@ -248,6 +273,23 @@
         "OSD"
       ],
       "author": "Betaflight",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.3/osd/Orange OSD.txt",
+      "hash": "63f1a8b67c156f6093cdaafeef76a2a9058d7bc65a46d807c0afed6090b791ae",
+      "title": "Default 4.3 OSD settings",
+      "firmware_version": [
+        "4.3",
+        "4.4",
+        "4.5"
+      ],
+      "category": "OSD",
+      "status": "OFFICIAL",
+      "keywords": [
+        "OSD"
+      ],
+      "author": "Orange",
       "priority": 0
     },
     {
@@ -291,6 +333,28 @@
       "priority": 0
     },
     {
+      "fullPath": "presets/4.3/rates/Orange Rates.txt",
+      "hash": "e87d3692876e859a3bf425a75b8db26b9a49a83e50c9d28ffede4e33ebadb1ee",
+      "title": "TUNE defaults",
+      "firmware_version": [
+        "4.3",
+        "4.4",
+        "4.5"
+      ],
+      "category": "TUNE",
+      "status": "OFFICIAL",
+      "keywords": [
+        "defaults",
+        "reset",
+        "tune",
+        "pid",
+        "basic",
+        "default"
+      ],
+      "author": "Orange",
+      "priority": 0
+    },
+    {
       "fullPath": "presets/4.3/tune/defaults.txt",
       "hash": "78f827d0a9c615a3be454362b7bfe9751ddd981ed23cd07c0c1f79c4415dace9",
       "title": "TUNE defaults",
@@ -309,6 +373,20 @@
       ],
       "author": "Betaflight",
       "priority": 0
+    },
+    {
+      "fullPath": "presets/4.3/vtx/Analog VTX.txt",
+      "hash": "ea2f29dd50c048741483fa18e5f78271e0d6c18926ed2c1b9da39807902301a0",
+      "title": "Analog VTX",
+      "firmware_version": [
+        "4.2",
+        "4.3",
+        "4.4",
+        "4.5"
+      ],
+      "category": "VTX",
+      "status": "COMMUNITY",
+      "priority": 1000000
     },
     {
       "fullPath": "presets/4.3/vtx/defaults_vtx_tables.txt",
@@ -370,8 +448,8 @@
     },
     {
       "fullPath": "presets/4.4/vtx/OSD DJI O3.txt",
-      "hash": "8416167aedb8facc306d6061d3c2cd521dd36ef609967977aed2a6f619d9a601",
-      "title": "OSD DJI O3",
+      "hash": "9fb47f5f4c10e3e8482b5a8080689e7cb5f0ad1e718c946748623d48b4982685",
+      "title": "Orange OSD DJI O3",
       "firmware_version": [
         "4.4",
         "4.5"
