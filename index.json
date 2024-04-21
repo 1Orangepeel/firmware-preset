@@ -147,52 +147,29 @@
       "VTX"
     ],
     "author": [
-      "antonig",
-      "Betaflight",
-      "QuadMcFly (Ryan Harrell)",
-      "sugarK",
-      "UAV Tech (Mark Spatz)"
+      "Betaflight"
     ],
     "keywords": [
-      "100 euro fpv",
-      "100euro",
-      "2023",
-      "5 inch",
-      "5\"",
-      "533",
-      "6S",
       "adjustments",
-      "antonig",
       "aux",
       "basic",
       "blackbox",
       "clear",
       "default",
       "defaults",
-      "disable",
-      "DJI",
+      "dji",
       "filter",
       "filters",
-      "five33",
-      "HD",
-      "HDOSD",
       "leds",
       "log",
       "logging",
       "mode",
       "modes",
-      "multigp",
+      "O3 air unit",
       "OSD",
       "pid",
-      "quaddiction",
-      "race",
       "reset",
-      "spec",
-      "spec racing",
-      "sugarK",
       "switch",
-      "tiny",
-      "tinytrainer",
       "tune",
       "vtx",
       "vtxtable"
@@ -271,43 +248,6 @@
         "OSD"
       ],
       "author": "Betaflight",
-      "priority": 0
-    },
-    {
-      "fullPath": "presets/4.3/osd/UAV_tech_DJI.txt",
-      "hash": "a03355bd8a7debf8d543d0f37d2276c4babde937c4d79fa9b1fcbca1ad6ec313",
-      "title": "UAV Tech - DJI",
-      "firmware_version": [
-        "4.3",
-        "4.4",
-        "4.5"
-      ],
-      "category": "OSD",
-      "status": "OFFICIAL",
-      "keywords": [
-        "DJI"
-      ],
-      "author": "UAV Tech (Mark Spatz)",
-      "priority": 0
-    },
-    {
-      "fullPath": "presets/4.3/other/blackbox_disable.txt",
-      "hash": "dd841068d2601c35bd38b350349b82cf23bd0185d8ee21f8a51ac1c9636154df",
-      "title": "4.3 Blackbox disable settings",
-      "firmware_version": [
-        "4.3",
-        "4.4"
-      ],
-      "category": "OTHER",
-      "status": "OFFICIAL",
-      "keywords": [
-        "blackbox",
-        "logging",
-        "log",
-        "disable",
-        "sugarK"
-      ],
-      "author": "sugarK",
       "priority": 0
     },
     {
@@ -392,29 +332,6 @@
       "priority": 1000000
     },
     {
-      "fullPath": "presets/4.4/leds/quaddiction_tinytrainer.txt",
-      "hash": "3446d7aa09e8a7febe459c46160efb5aadf64a44ddf022f79156b76919edef8a",
-      "title": "Quaddiction TinyTrainer LED settings",
-      "firmware_version": [
-        "4.4"
-      ],
-      "category": "LEDS",
-      "status": "OFFICIAL",
-      "keywords": [
-        "leds",
-        "533",
-        "five33",
-        "quaddiction",
-        "sugarK",
-        "spec",
-        "spec racing",
-        "tinytrainer",
-        "tiny"
-      ],
-      "author": "sugarK",
-      "priority": 0
-    },
-    {
       "fullPath": "presets/4.4/osd/defaults.txt",
       "hash": "d594f4691e29d05efc4b37995b2f218fbe31f930157c3499755753214fa87254",
       "title": "Default 4.4 OSD settings",
@@ -429,46 +346,6 @@
         "OSD"
       ],
       "author": "Betaflight",
-      "priority": 0
-    },
-    {
-      "fullPath": "presets/4.4/osd/QuadMcFly_DJI_HD_OSD.txt",
-      "hash": "1bdc587fd4223c8526a7954c0b44e7bfc98a8b9d556de729d24376d06e29f3be",
-      "title": "QuadMcFly - DJI HD OSD",
-      "firmware_version": [
-        "4.4"
-      ],
-      "category": "OSD",
-      "status": "EXPERIMENTAL",
-      "keywords": [
-        "DJI",
-        "HD",
-        "HDOSD"
-      ],
-      "author": "QuadMcFly (Ryan Harrell)",
-      "priority": 0
-    },
-    {
-      "fullPath": "presets/4.4/other/100-euro-fpv-tune.txt",
-      "hash": "5e2b1d2fd1e9dea96eeaece8649eacc03e81b6815a95a3330969a42d37b2b0b8",
-      "title": "100-EURO-FPV",
-      "firmware_version": [
-        "4.4"
-      ],
-      "category": "OTHER",
-      "status": "EXPERIMENTAL",
-      "keywords": [
-        "6S",
-        "race",
-        "100 euro fpv",
-        "5 inch",
-        "5\"",
-        "antonig",
-        "2023",
-        "multigp",
-        "100euro"
-      ],
-      "author": "antonig",
       "priority": 0
     },
     {
@@ -490,6 +367,23 @@
       ],
       "author": "Betaflight",
       "priority": 0
+    },
+    {
+      "fullPath": "presets/4.4/vtx/OSD DJI O3.txt",
+      "hash": "8416167aedb8facc306d6061d3c2cd521dd36ef609967977aed2a6f619d9a601",
+      "title": "OSD DJI O3",
+      "firmware_version": [
+        "4.4",
+        "4.5"
+      ],
+      "category": "VTX",
+      "status": "COMMUNITY",
+      "keywords": [
+        "vtx",
+        "dji",
+        "O3 air unit"
+      ],
+      "priority": 1000000
     },
     {
       "fullPath": "presets/4.5/filters/defaults.txt",
